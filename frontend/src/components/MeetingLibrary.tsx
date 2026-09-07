@@ -85,10 +85,10 @@ export default function MeetingLibrary() {
       <aside className="fixed inset-y-0 left-0 z-10 flex w-[220px] flex-col border-r border-[#e7e7ea] bg-white px-3 py-5">
         <div className="mb-8 flex items-center gap-2 px-3">
           <div className="grid h-7 w-7 place-items-center rounded-md bg-[#7148e8] text-sm font-bold text-white">
-            F
+            M
           </div>
           <span className="text-[17px] font-semibold tracking-[-0.03em]">
-            fireflies.ai
+            MeetBrief
           </span>
         </div>
 
