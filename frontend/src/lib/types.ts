@@ -57,5 +57,7 @@ export interface MeetingDetail extends MeetingListItem {
 export interface MeetingSearchParams {
   search?: string;
   participant?: string;
+  date_from?: string;
+  date_to?: string;
   sort?: "recent" | "oldest" | "title";
 }
