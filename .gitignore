@@ -1,0 +1,23 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/*.db
+backend/*.sqlite3
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment secrets
+.env
+.env.*
+frontend/.env.local
+backend/.env
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
